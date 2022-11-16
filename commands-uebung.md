@@ -7,4 +7,4 @@ Share the pull request with your team
 Review the pull request, implement changes if needed, push again to update the pull request until it gets approved
 Merge the pull request into main
 Don't forget to git pull inside the main branch on your local machine
-Delete the new branch on GitHub and locally
+Delete the new branch on 
